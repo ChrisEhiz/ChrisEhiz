@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on c/c++ codes 
 - 📫 How to reach me chrisehiz38@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i taught myself how to speak korean, crochet and noe I'm also teaching myself how to code 
+- ⚡ Fun fact: i taught myself how to speak korean, crochet and now I'm also teaching myself how to code 
 
 <!---
 ChrisEhiz/ChrisEhiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
